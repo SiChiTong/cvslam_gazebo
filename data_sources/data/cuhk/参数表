@@ -1,0 +1,5 @@
+/home/yhzhao/cvslam_ws_observation/devel/lib/ar_localization/SLAM_main
+
+ ./data/cuhk/config_small.in  ./data/cuhk/DataConfig.xml  1
+
+/home/yhzhao/cvslam_ws_observation/src/ar_localization/data_sources
